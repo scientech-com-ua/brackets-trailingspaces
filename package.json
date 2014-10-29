@@ -1,0 +1,16 @@
+{
+    "name": "scientech-com-ua.brackets-trailingspaces",
+    "title": "Trailingspaces",
+    "description": "Extension which visualizes trailing whitespaces",
+    "keywords":["whitespace"],
+    "homepage": "https://github.com/scientech-com-ua/brackets-trailingspaces",
+    "version": "0.0.1",
+    "author": "Scientech LLC (https://github.com/scientech-com-ua/)",
+    "contributors": [
+        "Sergey Yamilov <jamy023@gmail.com> (https://github.com/jamy23)"
+    ],
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.31.0"
+    }
+}
