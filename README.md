@@ -5,7 +5,7 @@ brackets-trailingspaces
 
 Adds an entry called "Show Trailing Whitespace" to the View menu, the shortcut is Command-Shift-. (or Ctrl-Shift-. on Windows). The state is remembered next time you start Brackets.
 
-This extension adds the CSS class `<span class="cm-trailingspace"></sapn>` to stretches of whitespace at the end of lines. Based on edit/trailingspace CodeMirror addon.
+This extension adds the CSS class `<span class="cm-trailingspace"></span>` to stretches of whitespace at the end of lines. Based on edit/trailingspace CodeMirror addon.
 
 The styles are defined in `style.css`.
 
