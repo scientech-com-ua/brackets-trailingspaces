@@ -4,7 +4,7 @@
     "description": "Extension which visualizes trailing whitespaces",
     "keywords":["whitespace"],
     "homepage": "https://github.com/scientech-com-ua/brackets-trailingspaces",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Scientech LLC (https://github.com/scientech-com-ua/)",
     "contributors": [
         "Sergey Yamilov <jamy023@gmail.com> (https://github.com/jamy23)"
